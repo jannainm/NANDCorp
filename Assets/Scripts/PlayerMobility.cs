@@ -29,7 +29,6 @@ public class PlayerMobility : MonoBehaviour
 		float vertical = Input.GetAxis ("Vertical");
 		MovePlayer (horizontal, vertical);
 	}
-	
 
 	void MovePlayer(float horizontal, float vertical) // h is horizontal, v is vertical
 	{
@@ -55,11 +54,11 @@ public class PlayerMobility : MonoBehaviour
 		int caseSwitch = direction;
 		switch (caseSwitch) {
 		case 1:
-			rot = Quaternion.LookRotation (transform.position, Vector3.up);
+			//rot = Quaternion.LookRotation (transform.position, Vector3.down);
 			//transform.eulerAngles = new Vector3 (0, 0, transform.eulerAngles.z);
+			//transform.rotation = rot;
 			//rigidBody.angularVelocity = 0;
 			//rigidBody.AddForce (gameObject.transform.up * speed * vertical);
-			//transform.rotation = rot;
 			break;
 		case 2:
 			//rot = Quaternion.LookRotation (transform.position, Vector3.down);
