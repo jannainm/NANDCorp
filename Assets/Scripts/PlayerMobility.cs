@@ -18,7 +18,6 @@ public class PlayerMobility : MonoBehaviour
 		animate = GetComponent<Animator>();
 		rigidBody = GetComponent<Rigidbody2D>();
 		speed = 0.025f;
-		animate.SetInteger ("Direction", 0);
 		//thrust = 5f;
 	}
 	
