@@ -6,19 +6,28 @@ public class PlayerMobility : MonoBehaviour
 	/// ////////////////////////////////////////////////
 	/// GLOBAL VARS
 	/// ////////////////////////////////////////////////
-	public Rigidbody2D rigidBody; // rigid body object allows interaction with player sprite
-	public Animator animate;
-	public Quaternion rot;
-	public float speed; // speed at which the character will move
-	//public float thrust; // used for speed of velocity in AddForce() to rigidBody
+	private Rigidbody2D rigidBody; // rigid body object allows interaction with player sprite
+	private Animator animate;
+	//private Quaternion rot;
+	private float speed; // speed at which the character will move
+	//private float thrust; // used for speed of velocity in AddForce() to rigidBody
+	//private float walkSpeed;
+	//private float curSpeed;
+	//private float maxSpeed;
+	//private float sprintSpeed;
+	
+	//private CharacterStat plStat;
 
 	// Use this for initialization
 	void Start () 
 	{
+		//plStat = GetComponent<CharacterStat>();
 		animate = GetComponent<Animator>();
 		rigidBody = GetComponent<Rigidbody2D>();
+		//walkSpeed = (float)(plStat.Speed + (plStat.Agility/5));
+		//sprintSpeed = walkSpeed + (walkSpeed / 2);
 		speed = 0.025f;
-		//thrust = 5f;
+		//thrust = 10f;
 	}
 	
 	// Update is called once per frame
@@ -31,10 +40,20 @@ public class PlayerMobility : MonoBehaviour
 
 	void MovePlayer(float horizontal, float vertical) // h is horizontal, v is vertical
 	{
+		/*
+		curSpeed = walkSpeed;
+		maxSpeed = curSpeed;
+
+		// Move senteces
+		GetComponent<Rigidbody2D>().velocity = new Vector2(Mathf.Lerp(0, Input.GetAxis("Horizontal")* curSpeed, 0.8f),
+		                                   Mathf.Lerp(0, Input.GetAxis("Vertical")* curSpeed, 0.8f));
+		*/
+
 		if (Input.GetKey (KeyCode.W)) { // the W key moves character towards Positive Y-AXIS
 			animate.SetInteger ("Direction", 2);
 			animate.SetFloat ("Speed", 1.0f);
 			transform.Translate (Vector3.up * speed);
+			//Rigidbody2D.velocity.y = vertical * thrust;
 			// equivalent to line above
 			// rigidBody.AddForce(Vector3.up * thrust);
 		} else if (Input.GetKey (KeyCode.S)) { // the S key moves character towards Negative Y-AXIS
