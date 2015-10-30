@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 332ec066ecb4f439897c4ba12155b9f8
+timeCreated: 1446179610
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: indoors_001_0
+    21300002: indoors_001_1
+    21300004: indoors_001_2
+    21300006: indoors_001_3
+    21300008: indoors_001_4
+    21300010: indoors_001_5
+    21300012: indoors_001_6
+    21300014: indoors_001_7
+    21300016: indoors_001_8
+    21300018: indoors_001_9
+    21300020: indoors_001_10
+    21300022: indoors_001_11
+    21300024: indoors_001_12
+    21300026: indoors_001_13
+    21300028: indoors_001_14
+    21300030: indoors_001_15
+    21300032: indoors_001_16
+    21300034: indoors_001_17
+    21300036: indoors_001_18
+    21300038: indoors_001_19
+    21300040: indoors_001_20
+    21300042: indoors_001_21
+    21300044: indoors_001_22
+    21300046: indoors_001_23
+    21300048: indoors_001_24
+    21300050: indoors_001_25
+    21300052: indoors_001_26
+    21300054: indoors_001_27
+    21300056: indoors_001_28
+    21300058: indoors_001_29
+    21300060: indoors_001_30
+    21300062: indoors_001_31
+    21300064: indoors_001_32
+    21300066: indoors_001_33
+    21300068: indoors_001_34
+    21300070: indoors_001_35
+    21300072: indoors_001_36
+    21300074: indoors_001_37
+    21300076: indoors_001_38
+    21300078: indoors_001_39
+    21300080: indoors_001_40
+    21300082: indoors_001_41
+    21300084: indoors_001_42
+    21300086: indoors_001_43
+    21300088: indoors_001_44
+    21300090: indoors_001_45
+    21300092: indoors_001_46
+    21300094: indoors_001_47
+    21300096: indoors_001_48
+    21300098: indoors_001_49
+    21300100: indoors_001_50
+    21300102: indoors_001_51
+    21300104: indoors_001_52
+    21300106: indoors_001_53
+    21300108: indoors_001_54
+    21300110: indoors_001_55
+    21300112: indoors_001_56
+    21300114: indoors_001_57
+    21300116: indoors_001_58
+    21300118: indoors_001_59
+    21300120: indoors_001_60
+    21300122: indoors_001_61
+    21300124: indoors_001_62
+    21300126: indoors_001_63
+    21300128: indoors_001_64
+    21300130: indoors_001_65
+    21300132: indoors_001_66
+    21300134: indoors_001_67
+    21300136: indoors_001_68
+    21300138: indoors_001_69
+    21300140: indoors_001_70
+    21300142: indoors_001_71
+    21300144: indoors_001_72
+    21300146: indoors_001_73
+    21300148: indoors_001_74
+    21300150: indoors_001_75
+    21300152: indoors_001_76
+    21300154: indoors_001_77
+    21300156: indoors_001_78
+    21300158: indoors_001_79
+    21300160: indoors_001_80
+    21300162: indoors_001_81
+    21300164: indoors_001_82
+    21300166: indoors_001_83
+    21300168: indoors_001_84
+    21300170: indoors_001_85
+    21300172: indoors_001_86
+    21300174: indoors_001_87
+    21300176: indoors_001_88
+    21300178: indoors_001_89
+    21300180: indoors_001_90
+    21300182: indoors_001_91
+    21300184: indoors_001_92
+    21300186: indoors_001_93
+    21300188: indoors_001_94
+    21300190: indoors_001_95
+    21300192: indoors_001_96
+    21300194: indoors_001_97
+    21300196: indoors_001_98
+    21300198: indoors_001_99
+    21300200: indoors_001_100
+    21300202: indoors_001_101
+    21300204: indoors_001_102
+    21300206: indoors_001_103
+    21300208: indoors_001_104
+    21300210: indoors_001_105
+    21300212: indoors_001_106
+    21300214: indoors_001_107
+    21300216: indoors_001_108
+    21300218: indoors_001_109
+    21300220: indoors_001_110
+    21300222: indoors_001_111
+    21300224: indoors_001_112
+    21300226: indoors_001_113
+    21300228: indoors_001_114
+    21300230: indoors_001_115
+    21300232: indoors_001_116
+    21300234: indoors_001_117
+    21300236: indoors_001_118
+    21300238: indoors_001_119
+    21300240: indoors_001_120
+    21300242: indoors_001_121
+    21300244: indoors_001_122
+    21300246: indoors_001_123
+    21300248: indoors_001_124
+    21300250: indoors_001_125
+    21300252: indoors_001_126
+    21300254: indoors_001_127
+    21300256: indoors_001_128
+    21300258: indoors_001_129
+    21300260: indoors_001_130
+    21300262: indoors_001_131
+    21300264: indoors_001_132
+    21300266: indoors_001_133
+    21300268: indoors_001_134
+    21300270: indoors_001_135
+    21300272: indoors_001_136
+    21300274: indoors_001_137
+    21300276: indoors_001_138
+    21300278: indoors_001_139
+    21300280: indoors_001_140
+    21300282: indoors_001_141
+    21300284: indoors_001_142
+    21300286: indoors_001_143
+    21300288: indoors_001_144
+    21300290: indoors_001_145
+    21300292: indoors_001_146
+    21300294: indoors_001_147
+    21300296: indoors_001_148
+    21300298: indoors_001_149
+    21300300: indoors_001_150
+    21300302: indoors_001_151
+    21300304: indoors_001_152
+    21300306: indoors_001_153
+    21300308: indoors_001_154
+    21300310: indoors_001_155
+    21300312: indoors_001_156
+    21300314: indoors_001_157
+    21300316: indoors_001_158
+    21300318: indoors_001_159
+    21300320: indoors_001_160
+    21300322: indoors_001_161
+    21300324: indoors_001_162
+    21300326: indoors_001_163
+    21300328: indoors_001_164
+    21300330: indoors_001_165
+    21300332: indoors_001_166
+    21300334: indoors_001_167
+    21300336: indoors_001_168
+    21300338: indoors_001_169
+    21300340: indoors_001_170
+    21300342: indoors_001_171
+    21300344: indoors_001_172
+    21300346: indoors_001_173
+    21300348: indoors_001_174
+    21300350: indoors_001_175
+    21300352: indoors_001_176
+    21300354: indoors_001_177
+    21300356: indoors_001_178
+    21300358: indoors_001_179
+    21300360: indoors_001_180
+    21300362: indoors_001_181
+    21300364: indoors_001_182
+    21300366: indoors_001_183
+    21300368: indoors_001_184
+    21300370: indoors_001_185
+    21300372: indoors_001_186
+    21300374: indoors_001_187
+    21300376: indoors_001_188
+    21300378: indoors_001_189
+    21300380: indoors_001_190
+    21300382: indoors_001_191
+    21300384: indoors_001_192
+    21300386: indoors_001_193
+    21300388: indoors_001_194
+    21300390: indoors_001_195
+    21300392: indoors_001_196
+    21300394: indoors_001_197
+    21300396: indoors_001_198
+    21300398: indoors_001_199
+    21300400: indoors_001_200
+    21300402: indoors_001_201
+    21300404: indoors_001_202
+    21300406: indoors_001_203
+    21300408: indoors_001_204
+    21300410: indoors_001_205
+    21300412: indoors_001_206
+    21300414: indoors_001_207
+    21300416: indoors_001_208
+    21300418: indoors_001_209
+    21300420: indoors_001_210
+    21300422: indoors_001_211
+    21300424: indoors_001_212
+    21300426: indoors_001_213
+    21300428: indoors_001_214
+    21300430: indoors_001_215
+    21300432: indoors_001_216
+    21300434: indoors_001_217
+    21300436: indoors_001_218
+    21300438: indoors_001_219
+    21300440: indoors_001_220
+    21300442: indoors_001_221
+    21300444: indoors_001_222
+    21300446: indoors_001_223
+    21300448: indoors_001_224
+    21300450: indoors_001_225
+    21300452: indoors_001_226
+    21300454: indoors_001_227
+    21300456: indoors_001_228
+    21300458: indoors_001_229
+    21300460: indoors_001_230
+    21300462: indoors_001_231
+    21300464: indoors_001_232
+    21300466: indoors_001_233
+    21300468: indoors_001_234
+    21300470: indoors_001_235
+    21300472: indoors_001_236
+    21300474: indoors_001_237
+    21300476: indoors_001_238
+    21300478: indoors_001_239
+    21300480: indoors_001_240
+    21300482: indoors_001_241
+    21300484: indoors_001_242
+    21300486: indoors_001_243
+    21300488: indoors_001_244
+    21300490: indoors_001_245
+    21300492: indoors_001_246
+    21300494: indoors_001_247
+    21300496: indoors_001_248
+    21300498: indoors_001_249
+    21300500: indoors_001_250
+    21300502: indoors_001_251
+    21300504: indoors_001_252
+    21300506: indoors_001_253
+    21300508: indoors_001_254
+    21300510: indoors_001_255
+    21300512: indoors_001_256
+    21300514: indoors_001_257
+    21300516: indoors_001_258
+    21300518: indoors_001_259
+    21300520: indoors_001_260
+    21300522: indoors_001_261
+    21300524: indoors_001_262
+    21300526: indoors_001_263
+    21300528: indoors_001_264
+    21300530: indoors_001_265
+    21300532: indoors_001_266
+    21300534: indoors_001_267
+    21300536: indoors_001_268
+    21300538: indoors_001_269
+    21300540: indoors_001_270
+    21300542: indoors_001_271
+    21300544: indoors_001_272
+    21300546: indoors_001_273
+    21300548: indoors_001_274
+    21300550: indoors_001_275
+    21300552: indoors_001_276
+    21300554: indoors_001_277
+    21300556: indoors_001_278
+    21300558: indoors_001_279
+    21300560: indoors_001_280
+    21300562: indoors_001_281
+    21300564: indoors_001_282
+    21300566: indoors_001_283
+    21300568: indoors_001_284
+    21300570: indoors_001_285
+    21300572: indoors_001_286
+    21300574: indoors_001_287
+    21300576: indoors_001_288
+    21300578: indoors_001_289
+    21300580: indoors_001_290
+    21300582: indoors_001_291
+    21300584: indoors_001_292
+    21300586: indoors_001_293
+    21300588: indoors_001_294
+    21300590: indoors_001_295
+    21300592: indoors_001_296
+    21300594: indoors_001_297
+    21300596: indoors_001_298
+    21300598: indoors_001_299
+    21300600: indoors_001_300
+    21300602: indoors_001_301
+    21300604: indoors_001_302
+    21300606: indoors_001_303
+    21300608: indoors_001_304
+    21300610: indoors_001_305
+    21300612: indoors_001_306
+    21300614: indoors_001_307
+    21300616: indoors_001_308
+    21300618: indoors_001_309
+    21300620: indoors_001_310
+    21300622: indoors_001_311
+    21300624: indoors_001_312
+    21300626: indoors_001_313
+    21300628: indoors_001_314
+    21300630: indoors_001_315
+    21300632: indoors_001_316
+    21300634: indoors_001_317
+    21300636: indoors_001_318
+    21300638: indoors_001_319
+    21300640: indoors_001_320
+    21300642: indoors_001_321
+    21300644: indoors_001_322
+    21300646: indoors_001_323
+    21300648: indoors_001_324
+    21300650: indoors_001_325
+    21300652: indoors_001_326
+    21300654: indoors_001_327
+    21300656: indoors_001_328
+    21300658: indoors_001_329
+    21300660: indoors_001_330
+    21300662: indoors_001_331
+    21300664: indoors_001_332
+    21300666: indoors_001_333
+    21300668: indoors_001_334
+    21300670: indoors_001_335
+    21300672: indoors_001_336
+    21300674: indoors_001_337
+    21300676: indoors_001_338
+    21300678: indoors_001_339
+    21300680: indoors_001_340
+    21300682: indoors_001_341
+    21300684: indoors_001_342
+    21300686: indoors_001_343
+    21300688: indoors_001_344
+    21300690: indoors_001_345
+    21300692: indoors_001_346
+    21300694: indoors_001_347
+    21300696: indoors_001_348
+    21300698: indoors_001_349
+    21300700: indoors_001_350
+    21300702: indoors_001_351
+    21300704: indoors_001_352
+    21300706: indoors_001_353
+    21300708: indoors_001_354
+    21300710: indoors_001_355
+    21300712: indoors_001_356
+    21300714: indoors_001_357
+    21300716: indoors_001_358
+    21300718: indoors_001_359
+    21300720: indoors_001_360
+    21300722: indoors_001_361
+    21300724: indoors_001_362
+    21300726: indoors_001_363
+    21300728: indoors_001_364
+    21300730: indoors_001_365
+    21300732: indoors_001_366
+    21300734: indoors_001_367
+    21300736: indoors_001_368
+    21300738: indoors_001_369
+    21300740: indoors_001_370
+    21300742: indoors_001_371
+    21300744: indoors_001_372
+    21300746: indoors_001_373
+    21300748: indoors_001_374
+    21300750: indoors_001_375
+    21300752: indoors_001_376
+    21300754: indoors_001_377
+    21300756: indoors_001_378
+    21300758: indoors_001_379
+    21300760: indoors_001_380
+    21300762: indoors_001_381
+    21300764: indoors_001_382
+    21300766: indoors_001_383
+    21300768: indoors_001_384
+    21300770: indoors_001_385
+    21300772: indoors_001_386
+    21300774: indoors_001_387
+    21300776: indoors_001_388
+    21300778: indoors_001_389
+    21300780: indoors_001_390
+    21300782: indoors_001_391
+    21300784: indoors_001_392
+    21300786: indoors_001_393
+    21300788: indoors_001_394
+    21300790: indoors_001_395
+    21300792: indoors_001_396
+    21300794: indoors_001_397
+    21300796: indoors_001_398
+    21300798: indoors_001_399
+    21300800: indoors_001_400
+    21300802: indoors_001_401
+    21300804: indoors_001_402
+    21300806: indoors_001_403
+    21300808: indoors_001_404
+    21300810: indoors_001_405
+    21300812: indoors_001_406
+    21300814: indoors_001_407
+    21300816: indoors_001_408
+    21300818: indoors_001_409
+    21300820: indoors_001_410
+    21300822: indoors_001_411
+    21300824: indoors_001_412
+    21300826: indoors_001_413
+    21300828: indoors_001_414
+    21300830: indoors_001_415
+    21300832: indoors_001_416
+    21300834: indoors_001_417
+    21300836: indoors_001_418
+    21300838: indoors_001_419
+    21300840: indoors_001_420
+    21300842: indoors_001_421
+    21300844: indoors_001_422
+    21300846: indoors_001_423
+    21300848: indoors_001_424
+    21300850: indoors_001_425
+    21300852: indoors_001_426
+    21300854: indoors_001_427
+    21300856: indoors_001_428
+    21300858: indoors_001_429
+    21300860: indoors_001_430
+    21300862: indoors_001_431
+    21300864: indoors_001_432
+    21300866: indoors_001_433
+    21300868: indoors_001_434
+    21300870: indoors_001_435
+    21300872: indoors_001_436
+    21300874: indoors_001_437
+    21300876: indoors_001_438
+    21300878: indoors_001_439
+    21300880: indoors_001_440
+    21300882: indoors_001_441
+    21300884: indoors_001_442
+    21300886: indoors_001_443
+    21300888: indoors_001_444
+    21300890: indoors_001_445
+    21300892: indoors_001_446
+    21300894: indoors_001_447
+    21300896: indoors_001_448
+    21300898: indoors_001_449
+    21300900: indoors_001_450
+    21300902: indoors_001_451
+    21300904: indoors_001_452
+    21300906: indoors_001_453
+    21300908: indoors_001_454
+    21300910: indoors_001_455
+    21300912: indoors_001_456
+    21300914: indoors_001_457
+    21300916: indoors_001_458
+    21300918: indoors_001_459
+    21300920: indoors_001_460
+    21300922: indoors_001_461
+    21300924: indoors_001_462
+    21300926: indoors_001_463
+    21300928: indoors_001_464
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: indoors_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_108
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_123
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_146
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_149
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoors_001_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
