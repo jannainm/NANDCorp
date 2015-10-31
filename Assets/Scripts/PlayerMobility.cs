@@ -9,7 +9,7 @@ public class PlayerMobility : MonoBehaviour
 	private Rigidbody2D rigidBody; // rigid body object allows interaction with player sprite
 	private Animator animate;
 	//private Quaternion rot;
-	private float speed; // speed at which the character will move
+	//private float speed; // speed at which the character will move
 	private float thrust; // used for speed of velocity in AddForce() to rigidBody
 	//private float walkSpeed;
 	//private float curSpeed;
@@ -30,10 +30,10 @@ public class PlayerMobility : MonoBehaviour
 		//walkSpeed = (float)(plStat.Speed + (plStat.Agility/5));
 		//sprintSpeed = walkSpeed + (walkSpeed / 2);
 		stoppingPower = 0.0f;
-		speed = 0.025f;
-		thrust = 2f;
+		//speed = 0.025f;
+		thrust = 5f;
 		noForce = new Vector3 (0, 0, 0);
-		wrld = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0.0f, 0.0f));
+		// wrld = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0.0f, 0.0f));
 	}
 	
 	// Update is called once per frame
