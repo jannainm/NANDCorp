@@ -46,7 +46,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerMobility.cs" />
+     <Compile Include="Assets\Scripts\mean_worker_Controller.cs" />
      <Compile Include="Assets\Scripts\playerController.cs" />
+     <Compile Include="Assets\Scripts\stairController.cs" />
      <Compile Include="Assets\Scripts\worker_blacksuit_Controller.cs" />
      <None Include="Assets\Resources\Editor\CM Tools\TileMasterReadme.txt" />
  <Reference Include="UnityEngine.UI">
