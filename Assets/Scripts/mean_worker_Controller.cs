@@ -5,7 +5,7 @@ public class mean_worker_Controller : MonoBehaviour {
 	private bool showText = false;
 	private bool collided = false;
 
-	private float currentTime = 0.0f, executedTime = 0.0f, timeToWait = 3.0f;
+	private float currentTime = 0.0f, executedTime = 0.0f, timeToWait = 7.0f;
 
 	// Update is called once per frame
 	void Update () {
@@ -33,7 +33,7 @@ public class mean_worker_Controller : MonoBehaviour {
 	void OnGUI() {
 		if (showText) {
 			// Centered Box
-			string msgText = "\n\n Hey, you! \n I said work, now!";
+			string msgText = "Hey, you! \n I said work, now! \n Don't even think about \n escaping using those \n stairs...That's where \n NANDCorp's ghosts lay.";
 			GUI.Box (new Rect ((Screen.width) / 2 - (Screen.width) / 8, (Screen.height) / 2 - (Screen.height) / 8, (Screen.width) / 4, (Screen.height) / 4), msgText);
 		}
 	}
