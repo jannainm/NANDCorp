@@ -36,7 +36,7 @@ public abstract class MovingObject : MonoBehaviour
 		
 		//Re-enable boxCollider after linecast
 		boxCollider.enabled = true;
-		
+
 		//Check if anything was hit
 		if (hit.transform == null) {
 			//If nothing was hit, start SmoothMovement co-routine passing in the Vector2 end as destination
@@ -82,18 +82,17 @@ public abstract class MovingObject : MonoBehaviour
 		bool canMove = Move (xDir, yDir, out hit);
 		
 		//Check if nothing was hit by linecast
-		if (hit.transform == null)
-			//If nothing was hit, return and don't execute further code.
+		if (hit.transform == null) {
 			return;
+		}
 		
 		//Get a component reference to the component of type T attached to the object that was hit
 		T hitComponent = hit.transform.GetComponent <T> ();
 		
 		//If canMove is false and hitComponent is not equal to null, meaning MovingObject is blocked and has hit something it can interact with.
-		if (!canMove && hitComponent != null)
-			
-			//Call the OnCantMove function and pass it hitComponent as a parameter.
+		if (!canMove && hitComponent != null) {
 			OnCantMove (hitComponent);
+		}
 	}
 
 	//The abstract modifier indicates that the thing being modified has a missing or incomplete implementation.

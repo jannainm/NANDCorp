@@ -3,7 +3,8 @@ using System;
 using System.Collections.Generic;
 using Random = UnityEngine.Random;
 
-public class BoardManager : MonoBehaviour {
+public class BoardManager : MonoBehaviour
+{
 
 
 	[Serializable]
@@ -12,46 +13,53 @@ public class BoardManager : MonoBehaviour {
 		public int minimum;
 		public int maximum;
 
-		public Count(int min, int max) 
+		public Count (int min, int max)
 		{
 			minimum = min;
 			maximum = max;
 		}
 	}
 
+	public bool doit = true;
 	public int columns = 8;
 	public int rows = 8;
-	public Count wallCount = new Count (5,9);
-	public Count foodCount = new Count (1,5);
+	public Count wallCount = new Count (5, 9);
+	public Count foodCount = new Count (1, 5);
 	public GameObject exit;
 	public GameObject[] wallTiles;
 	public GameObject[] floorTiles;
 	public GameObject[] enemyTiles;
 	public GameObject[] foodTiles;
+	public GameObject player;
 
 	private Transform boardHolder; // parent of all board objects
-	private List<Vector3> gridPositions = new List<Vector3>(); // tracks players and objects
+	private List<Vector3> gridPositions = new List<Vector3> (); // tracks players and objects
 
-	void InitialiseList()
+	void InitialiseList ()
 	{
 		gridPositions.Clear (); // clear list
 
 		// fill game board with list of Vector 3's
 		for (int x = 1; x < columns - 1; x++) {
-			for(int y = 1; y < rows - 1; y++) {
+			for (int y = 1; y < rows - 1; y++) {
 				// add new vector with x, y values
-				gridPositions.Add(new Vector3(x,y,0f));
+				gridPositions.Add (new Vector3 (x, y, 0f));
 			}
 		}
 	}
 
-	void BoardSetup () { // lay out outer wall tiles and background of floor tiles
+	void BoardSetup ()
+	{ // lay out outer wall tiles and background of floor tiles
+		//player = new GameObject("main_player");
+		//Instantiate(player, new Vector3(1f, 1f, 0), Quaternion.identity);
+		//player.transform.SetParent(boardHolder);
+		//player.SetActive(true);
 		boardHolder = new GameObject ("Board").transform;
 		for (int x = -1; x < columns + 1; x++) {
-			for(int y = -1; y < rows + 1; y++) {
-				GameObject toInstantiate = floorTiles[Random.Range (0, floorTiles.Length)];
-				if(x == -1 || x == columns || y == -1 || y == rows) {
-					toInstantiate = wallTiles[Random.Range(0, wallTiles.Length)];
+			for (int y = -1; y < rows + 1; y++) {
+				GameObject toInstantiate = floorTiles [Random.Range (0, floorTiles.Length)];
+				if (x == -1 || x == columns || y == -1 || y == rows) {
+					toInstantiate = wallTiles [Random.Range (0, wallTiles.Length)];
 				}
 				//Instantiate the GameObject instance using the prefab chosen for toInstantiate at the Vector3 corresponding to current grid position in loop, cast it to GameObject.
 				GameObject instance =
@@ -70,30 +78,35 @@ public class BoardManager : MonoBehaviour {
 				  //                                Quaternion.identity) as GameObject // instance w/ no rotation
 				//myInstance.transform.SetParent(boardHolder); // set to child
 				*/
+
 			}
+			//GameObject toInstantiate = Player;
+
 		}
 	}
 
 	// places items like walls, enemys, and powerups
-	Vector3 RandomPosition() {
+	Vector3 RandomPosition ()
+	{
 		int randomIndex = Random.Range (0, gridPositions.Count);
 		Vector3 randomPosition = gridPositions [randomIndex];
 		gridPositions.RemoveAt (randomIndex); // assure two objects are not added at the same place
 		return randomPosition;
 	}
 
-	void LayoutObjectAtRandom(GameObject[] tileArray, int minimum, int maximum)
+	void LayoutObjectAtRandom (GameObject[] tileArray, int minimum, int maximum)
 	{
 		int objectCount = Random.Range (minimum, maximum + 1); // controls how many of any object to spawn
 		for (int i = 0; i < objectCount; i++) {
 			Vector3 randomPosition = RandomPosition ();
-			GameObject tileChosen = tileArray[Random.Range(0 , tileArray.Length)];
-			Instantiate(tileChosen, randomPosition, Quaternion.identity);
+			GameObject tileChosen = tileArray [Random.Range (0, tileArray.Length)];
+			Instantiate (tileChosen, randomPosition, Quaternion.identity);
 		}
 
 	}
 
-	public void SetupScene(int level) {
+	public void SetupScene (int level)
+	{
 		BoardSetup ();
 		InitialiseList ();
 
@@ -104,7 +117,7 @@ public class BoardManager : MonoBehaviour {
 		LayoutObjectAtRandom (foodTiles, foodCount.minimum, foodCount.maximum);
 		
 		// determine number of enemies based on current level number, based on a logarithmic progression
-		int enemyCount = (int)Mathf.Log(level, 2f); // casted float to integer
+		int enemyCount = (int)Mathf.Log (level, 2f); // casted float to integer
 		
 		// instantiate a random number of enemies based on minimum and maximum, at randomized positions.
 		LayoutObjectAtRandom (enemyTiles, enemyCount, enemyCount);
